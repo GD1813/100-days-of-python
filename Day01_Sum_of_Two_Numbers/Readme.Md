@@ -21,11 +21,7 @@ print(f"The sum of the two numbers is {result}.")
 
 ## ▶️ Sample Output
 
-```text
-Enter the value of num1: 10
-Enter the value of num2: 20
-The sum of the two numbers is 30.
-```
+![Program Output](output.png)
 
 ## 📚 Concepts Practiced
 
