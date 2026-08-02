@@ -21,7 +21,7 @@ print(f"The sum of the two numbers is {result}.")
 
 ## ▶️ Sample Output
 
-![Program Output](output.png)
+![Program Output](Output.png)
 
 ## 📚 Concepts Practiced
 
