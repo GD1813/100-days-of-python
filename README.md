@@ -37,9 +37,13 @@ This repository documents my journey of strengthening Python fundamentals and pr
 ├── Day01_Sum_of_Two_Numbers/
 │   ├── main.py
 │   ├── README.md
-│   └── output.png
+│   └── Output.png
 │
-├── Day02_...
+├── Day02_Even_Odd/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
+│
 ├── Day03_...
 └── ...
 ```
@@ -51,7 +55,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day   | Program            | Status |
 | ----- | ------------------ | :----: |
 | Day 1 | Sum of Two Numbers |    ✅   |
-| Day 2 | Coming Soon        |    ⏳   |
+| Day 2 | Even or Odd Number |    ✅   |
 | Day 3 | Coming Soon        |    ⏳   |
 | Day 4 | Coming Soon        |    ⏳   |
 | Day 5 | Coming Soon        |    ⏳   |
