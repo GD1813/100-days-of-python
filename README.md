@@ -44,21 +44,24 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── README.md
 │   └── Output.png
 │
-├── Day03_...
-└── ...
+├── Day03_Positive_Negative_Zero/
+├── main.py
+├── README.md
+└── output.png
 ```
 
 ---
 
 # 📅 Progress
 
-| Day   | Program            | Status |
-| ----- | ------------------ | :----: |
-| Day 1 | Sum of Two Numbers |    ✅   |
-| Day 2 | Even or Odd Number |    ✅   |
-| Day 3 | Coming Soon        |    ⏳   |
-| Day 4 | Coming Soon        |    ⏳   |
-| Day 5 | Coming Soon        |    ⏳   |
+| Day   | Program                     | Status |
+| ----- | --------------------------- | :----: |
+| Day 1 | Sum of Two Numbers          |    ✅   |
+| Day 2 | Even or Odd Number          |    ✅   |
+| Day 3 | Positive, Negative, or Zero |    ✅   |
+| Day 4 | Coming Soon                 |    ⏳   |
+| Day 5 | Coming Soon                 |    ⏳   |
+
 
 > This table will be updated throughout the challenge.
 
