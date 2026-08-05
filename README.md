@@ -45,10 +45,13 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   └── Output.png
 │
 ├── Day03_Positive_Negative_Zero/
-├── main.py
-├── README.md
-└── output.png
-```
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
+├── Day04_Largest_of_Two_Numbers/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 
 ---
 
@@ -59,7 +62,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 1 | Sum of Two Numbers          |    ✅   |
 | Day 2 | Even or Odd Number          |    ✅   |
 | Day 3 | Positive, Negative, or Zero |    ✅   |
-| Day 4 | Coming Soon                 |    ⏳   |
+| Day 4 | Largest of Two Numbers      |    ✅   |
 | Day 5 | Coming Soon                 |    ⏳   |
 
 
