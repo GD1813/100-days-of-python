@@ -52,6 +52,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day05_Largest_of_Three_Numbers/                                                 
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 
 ---
 
@@ -63,7 +67,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 2 | Even or Odd Number          |    ✅   |
 | Day 3 | Positive, Negative, or Zero |    ✅   |
 | Day 4 | Largest of Two Numbers      |    ✅   |
-| Day 5 | Coming Soon                 |    ⏳   |
+| Day 5 | Largest of Three Numbers    |    ✅   |
 
 
 > This table will be updated throughout the challenge.
