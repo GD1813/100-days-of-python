@@ -56,6 +56,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day06_Simple_Calculator/
+├── main.py
+├── README.md
+└── output.png
 
 ---
 
@@ -68,6 +72,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 3 | Positive, Negative, or Zero |    ✅   |
 | Day 4 | Largest of Two Numbers      |    ✅   |
 | Day 5 | Largest of Three Numbers    |    ✅   |
+| Day 6 | Simple Calculator           |    ✅   |
 
 
 > This table will be updated throughout the challenge.
