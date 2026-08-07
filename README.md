@@ -57,9 +57,9 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── README.md
 │   └── Output.png
 ├── Day06_Simple_Calculator/
-├── main.py
-├── README.md
-└── output.png
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 
 ---
 
