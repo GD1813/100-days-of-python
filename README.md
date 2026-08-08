@@ -60,6 +60,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day07_Leap_Year_Checker/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 
 ---
 
