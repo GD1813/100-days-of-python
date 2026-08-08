@@ -77,6 +77,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 4 | Largest of Two Numbers      |    ✅   |
 | Day 5 | Largest of Three Numbers    |    ✅   |
 | Day 6 | Simple Calculator           |    ✅   |
+| Day 7 | Leap Year Checker           |    ✅   |
 
 
 > This table will be updated throughout the challenge.
