@@ -64,6 +64,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day08_Multiplication_Table/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 
 ---
 
@@ -78,6 +82,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 5 | Largest of Three Numbers    |    ✅   |
 | Day 6 | Simple Calculator           |    ✅   |
 | Day 7 | Leap Year Checker           |    ✅   |
+| Day 8 | Multiplication Table        |    ✅   |
 
 
 > This table will be updated throughout the challenge.
