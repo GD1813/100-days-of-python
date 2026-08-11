@@ -68,11 +68,14 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
-├── Day08_Multiplication_Table/
+├── Day09_Sum_of_Natural_Numbers
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
-
+├── Day010_Factorial_of_a_Number/s
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 # 📅 Progress
