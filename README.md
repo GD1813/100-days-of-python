@@ -78,7 +78,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 # 📅 Progress
 
 | Day   | Program                     | Status |
-| ----- | --------------------------- | :----: |
+| ----- | --------------------------- | :----: |                Factorial of a Number
 | Day 1 | Sum of Two Numbers          |    ✅   |
 | Day 2 | Even or Odd Number          |    ✅   |
 | Day 3 | Positive, Negative, or Zero |    ✅   |
@@ -88,6 +88,8 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 7 | Leap Year Checker           |    ✅   |
 | Day 8 | Multiplication Table        |    ✅   |
 | Day 9 | Sum of Natural Numbers      |    ✅   |
+| Day 10| Factorial of a Number       |    ✅   |
+
 
 
 > This table will be updated throughout the challenge.
