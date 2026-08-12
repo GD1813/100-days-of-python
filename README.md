@@ -68,11 +68,15 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
-├── Day09_Sum_of_Natural_Numbers
+├── Day09_Sum_of_Natural_Numbers/
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
-├── Day010_Factorial_of_a_Number/s
+├── Day010_Factorial_of_a_Number/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
+├── Day11_Prime_Number_Checker/
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
@@ -92,6 +96,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 8 | Multiplication Table        |    ✅   |
 | Day 9 | Sum of Natural Numbers      |    ✅   |
 | Day 10| Factorial of a Number       |    ✅   |
+| Day 11| Prime Number Checker        |    ✅   |
 
 
 
