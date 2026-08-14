@@ -84,7 +84,12 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day13_Sum_of_Digits/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
+
 
 # 📅 Progress
 
@@ -101,7 +106,8 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 9 | Sum of Natural Numbers      |    ✅   |
 | Day 10| Factorial of a Number       |    ✅   |
 | Day 11| Prime Number Checker        |    ✅   |
-| Day 11| Count Digits                |    ✅   |
+| Day 12| Count Digits                |    ✅   |
+| Day 13| Sum of Digits               |    ✅   |
 
 
 
