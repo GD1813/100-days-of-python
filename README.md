@@ -88,6 +88,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day14_Reverse_a_Number/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -108,6 +112,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 11| Prime Number Checker        |    ✅   |
 | Day 12| Count Digits                |    ✅   |
 | Day 13| Sum of Digits               |    ✅   |
+| Day 14| Reverse a Number            |    ✅   |
 
 
 
