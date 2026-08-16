@@ -117,7 +117,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 12| Count Digits                |    ✅   |
 | Day 13| Sum of Digits               |    ✅   |
 | Day 14| Reverse a Number            |    ✅   |
-| Day 14| Palindrome Number Checker   |    ✅   |
+| Day 15| Palindrome Number Checker   |    ✅   |
 
 
 
