@@ -96,6 +96,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day16_Largest_Digit/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -118,6 +122,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 13| Sum of Digits               |    ✅   |
 | Day 14| Reverse a Number            |    ✅   |
 | Day 15| Palindrome Number Checker   |    ✅   |
+| Day 16| Largest Digit               |    ✅   |
 
 
 
