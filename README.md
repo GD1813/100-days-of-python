@@ -100,6 +100,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day17_Count even and odd digits/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -123,6 +127,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 14| Reverse a Number            |    ✅   |
 | Day 15| Palindrome Number Checker   |    ✅   |
 | Day 16| Largest Digit               |    ✅   |
+| Day 17| Count even and odd digits   |    ✅   |
 
 
 
