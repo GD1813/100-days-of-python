@@ -104,6 +104,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day18_Add Smallest Digit program/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -128,6 +132,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 15| Palindrome Number Checker   |    ✅   |
 | Day 16| Largest Digit               |    ✅   |
 | Day 17| Count even and odd digits   |    ✅   |
+| Day 18| Add Smallest Digit program  |    ✅   |
 
 
 
