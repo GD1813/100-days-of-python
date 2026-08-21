@@ -112,6 +112,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day20_Armstrong_Number/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -138,6 +142,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 17| Count even and odd digits   |    ✅   |
 | Day 18| Add Smallest Digit program  |    ✅   |
 | Day 19| Product of Digits           |    ✅   |
+| Day 19| Armstrong Number            |    ✅   |
 
 
 
