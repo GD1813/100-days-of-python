@@ -116,6 +116,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day21_Fibonacci_Series/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -142,7 +146,8 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 17| Count even and odd digits   |    ✅   |
 | Day 18| Add Smallest Digit program  |    ✅   |
 | Day 19| Product of Digits           |    ✅   |
-| Day 19| Armstrong Number            |    ✅   |
+| Day 20| Armstrong Number            |    ✅   |
+| Day 21| Fibonacci Series            |    ✅   |
 
 
 
