@@ -120,6 +120,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day22_Nth_Fibonacci_Term/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -148,6 +152,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 19| Product of Digits           |    ✅   |
 | Day 20| Armstrong Number            |    ✅   |
 | Day 21| Fibonacci Series            |    ✅   |
+| Day 22| Nth Fibonacci Term          |    ✅   |
 
 
 
