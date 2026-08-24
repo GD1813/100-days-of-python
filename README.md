@@ -124,6 +124,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day23_Perfect_Number/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -153,6 +157,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 20| Armstrong Number            |    ✅   |
 | Day 21| Fibonacci Series            |    ✅   |
 | Day 22| Nth Fibonacci Term          |    ✅   |
+| Day 23| Perfect Number              |    ✅   |
 
 
 
