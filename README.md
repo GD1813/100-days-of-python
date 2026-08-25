@@ -128,6 +128,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day24_Find_All_Factors/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -158,6 +162,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 21| Fibonacci Series            |    ✅   |
 | Day 22| Nth Fibonacci Term          |    ✅   |
 | Day 23| Perfect Number              |    ✅   |
+| Day 24| Find All Factors            |    ✅   |
 
 
 
