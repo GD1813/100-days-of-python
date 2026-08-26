@@ -132,6 +132,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day25_GCD/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -163,6 +167,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 22| Nth Fibonacci Term          |    ✅   |
 | Day 23| Perfect Number              |    ✅   |
 | Day 24| Find All Factors            |    ✅   |
+| Day 25| GCD of Two Numbers          |    ✅   |
 
 
 
