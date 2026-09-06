@@ -21,9 +21,9 @@ For this exercise, if either number is `0`, the program returns `0`.
 * `for` loops
 * Modulo operator `%`
 * Conditional statements
-* Finding common multiples
-* Using `break`
-* Handling edge cases
+* Common multiples
+* `break` statement
+* Edge case handling
 * Basic problem-solving logic
 
 ---
@@ -53,9 +53,9 @@ print(divisor)
 1. Take two numbers as input.
 2. Check whether either number is `0`.
 3. If either number is `0`, set the LCM to `0`.
-4. Otherwise, start checking numbers from `1`.
-5. Check whether the current number is divisible by both inputs using `%`.
-6. When the first common multiple is found, store it.
+4. Otherwise, start checking possible common multiples from `1`.
+5. Check if the current number is divisible by both input numbers using `%`.
+6. When the first common multiple is found, store it in `divisor`.
 7. Use `break` to stop the loop because the first common multiple is the smallest one.
 8. Print the LCM.
 
@@ -78,19 +78,21 @@ Enter the second number: 18
 
 ### Explanation
 
-The multiples of `12` are:
+Multiples of `12`:
 
 ```
 12, 24, 36, 48, ...
 ```
 
-The multiples of `18` are:
+Multiples of `18`:
 
 ```
 18, 36, 54, ...
 ```
 
-The first common multiple is `36`, so:
+The first common multiple is `36`.
+
+Therefore:
 
 ```
 LCM = 36
@@ -126,7 +128,7 @@ GCD(12, 18) = 6
 LCM(12, 18) = 36
 ```
 
-The important difference is the direction of the modulo check:
+The important difference is:
 
 ```
 GCD → num1 % i == 0
@@ -135,7 +137,28 @@ LCM → i % num1 == 0
 
 ---
 
+## 🖼️ Output
+
+The program was executed with different test cases to verify the LCM calculation and edge-case handling.
+
+Example output:
+
+```
+Enter the first number: 12
+Enter the second number: 18
+36
+```
+
+The screenshot of the program execution is included below:
+
+![Program Output](output.png)
+
+---
+
 ## 🚀 Challenge Progress
 
 **Day 26 of 100 Days of Python – Completed ✅**
 
+Previous: [Day 25 – GCD of Two Numbers](../Day25_GCD/)
+
+Next: **Day 27 – Coming Soon...**
