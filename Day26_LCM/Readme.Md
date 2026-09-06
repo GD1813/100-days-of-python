@@ -1,38 +1,37 @@
-# 📅 Day 26 – LCM of Two Numbers
+# Day 26 - LCM of Two Numbers
 
-## 📌 Problem Statement
+## 📖 Description
 
-Write a Python program to find the **Least Common Multiple (LCM)** of two numbers.
+This is my **Day 26** program for the **100 Days of Python** challenge.
 
-The LCM of two numbers is the **smallest positive number that is divisible by both numbers**.
+The program accepts two integers from the user and finds their **Least Common Multiple (LCM)**.
 
-### Examples
+The LCM is the smallest positive integer that is divisible by both numbers without leaving a remainder.
 
-* LCM of `12` and `18` → `36`
-* LCM of `4` and `6` → `12`
-* LCM of `7` and `3` → `21`
+For example:
 
-For this exercise, if either number is `0`, the program returns `0`.
+12 → 12, 24, 36, 48, ...
 
----
+18 → 18, 36, 54, 72, ...
 
-## 🎯 Concepts Practiced
+The common multiples are:
 
-* `for` loops
-* Modulo operator `%`
-* Conditional statements
-* Common multiples
-* `break` statement
-* Edge case handling
-* Basic problem-solving logic
+36, 72, ...
+
+Therefore:
+
+LCM = 36
 
 ---
 
 ## 💻 Program
 
 ```
+# Day 26 - LCM of Two Numbers
+
 num1 = int(input("Enter the first number: "))
 num2 = int(input("Enter the second number: "))
+
 divisor = 0
 
 if num1 == 0 or num2 == 0:
@@ -48,117 +47,74 @@ print(divisor)
 
 ---
 
-## 🧠 How It Works
-
-1. Take two numbers as input.
-2. Check whether either number is `0`.
-3. If either number is `0`, set the LCM to `0`.
-4. Otherwise, start checking possible common multiples from `1`.
-5. Check if the current number is divisible by both input numbers using `%`.
-6. When the first common multiple is found, store it in `divisor`.
-7. Use `break` to stop the loop because the first common multiple is the smallest one.
-8. Print the LCM.
-
----
-
-## 🔍 Example
-
-### Input
-
-```
-Enter the first number: 12
-Enter the second number: 18
-```
-
-### Output
-
-```
-36
-```
-
-### Explanation
-
-Multiples of `12`:
-
-```
-12, 24, 36, 48, ...
-```
-
-Multiples of `18`:
-
-```
-18, 36, 54, ...
-```
-
-The first common multiple is `36`.
-
-Therefore:
-
-```
-LCM = 36
-```
-
----
-
-## ⚠️ Edge Cases
-
-| Input    | Output |
-| -------- | -----: |
-| `12, 18` |   `36` |
-| `4, 6`   |   `12` |
-| `7, 3`   |   `21` |
-| `5, 5`   |    `5` |
-| `0, 5`   |    `0` |
-| `0, 0`   |    `0` |
-
----
-
-## 📚 Key Learning
-
-### GCD vs LCM
-
-**GCD** finds the largest number that **divides both numbers**.
-
-**LCM** finds the smallest number that is **divisible by both numbers**.
-
-For example:
-
-```
-GCD(12, 18) = 6
-LCM(12, 18) = 36
-```
-
-The important difference is:
-
-```
-GCD → num1 % i == 0
-LCM → i % num1 == 0
-```
-
----
-
-## 🖼️ Output
-
-The program was executed with different test cases to verify the LCM calculation and edge-case handling.
-
-Example output:
-
-```
-Enter the first number: 12
-Enter the second number: 18
-36
-```
-
-The screenshot of the program execution is included below:
+## ▶️ Sample Output
 
 ![Program Output](output.png)
 
 ---
 
-## 🚀 Challenge Progress
+## 📚 Concepts Practiced
 
-**Day 26 of 100 Days of Python – Completed ✅**
+* Variables
+* User Input
+* Type Conversion (`int()`)
+* `for` Loop
+* `range()` Function
+* Modulus Operator (`%`)
+* Divisibility
+* Conditional Statements
+* `if` and `else`
+* Comparison Operators
+* Logical Operator (`or`)
+* Logical Operator (`and`)
+* Finding Common Multiples
+* Finding the Smallest Value
+* `break` Statement
+* `print()` Function
 
-Previous: [Day 25 – GCD of Two Numbers](../Day25_GCD/)
+---
 
-Next: **Day 27 – Coming Soon...**
+## 🎯 What I Learned
+
+* What LCM means.
+* How to find common multiples of two numbers.
+* How to check whether a number is divisible by another number using `%`.
+* How to find the smallest common multiple.
+* How to use `break` to stop the loop after finding the first common multiple.
+* How to handle zero as an input.
+* How to use `if` and `else` to handle different cases.
+* How to solve the problem without using `math.lcm()`.
+
+---
+
+## 🔑 Important Technique
+
+```
+for i in range(1, num1 * num2 + 1):
+    if i % num1 == 0 and i % num2 == 0:
+        divisor = i
+        break
+```
+
+The loop checks possible multiples starting from `1` and determines whether they are divisible by both numbers.
+
+Because the loop checks the values from smallest to largest, the first common multiple found is the **Least Common Multiple**.
+
+The `break` statement stops the loop immediately after finding the LCM.
+
+---
+
+## 🚀 Future Improvement
+
+A more efficient approach for finding the LCM is to use the relationship between **LCM and GCD**:
+
+```
+LCM(a, b) = |a × b| / GCD(a, b)
+```
+
+This program intentionally uses the basic common-multiple approach to strengthen understanding of loops, divisibility, conditional logic, and the `break` statement.
+
+---
+
+**Challenge:** 100 Days of Python
+**Day:** 26/100 ✅
