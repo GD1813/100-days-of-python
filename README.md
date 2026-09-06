@@ -136,6 +136,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day26_LCM/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -168,6 +172,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 23| Perfect Number              |    ✅   |
 | Day 24| Find All Factors            |    ✅   |
 | Day 25| GCD of Two Numbers          |    ✅   |
+| Day 26| LCM of Two Numbers          |    ✅   |
 
 
 
