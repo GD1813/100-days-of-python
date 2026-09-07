@@ -140,6 +140,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day27_Count_Factors/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -173,6 +177,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 24| Find All Factors            |    ✅   |
 | Day 25| GCD of Two Numbers          |    ✅   |
 | Day 26| LCM of Two Numbers          |    ✅   |
+| Day 27| Count the Number of Factors |    ✅   |
 
 
 
