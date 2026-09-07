@@ -177,7 +177,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 24| Find All Factors            |    ✅   |
 | Day 25| GCD of Two Numbers          |    ✅   |
 | Day 26| LCM of Two Numbers          |    ✅   |
-| Day 27| Count the Number of Factors |    ✅   |
+| Day 27| Count Factors               |    ✅   |
 
 
 
