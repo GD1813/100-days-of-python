@@ -144,6 +144,10 @@ This repository documents my journey of strengthening Python fundamentals and pr
 │   ├── main.py
 │   ├── README.md
 │   └── Output.png
+├── Day28_Sum_of_All_Factors/
+│   ├── main.py
+│   ├── README.md
+│   └── Output.png
 ---
 
 
@@ -178,6 +182,7 @@ This repository documents my journey of strengthening Python fundamentals and pr
 | Day 25| GCD of Two Numbers          |    ✅   |
 | Day 26| LCM of Two Numbers          |    ✅   |
 | Day 27| Count Factors               |    ✅   |
+| Day 28| Sum of all factors          |    ✅   |
 
 
 
